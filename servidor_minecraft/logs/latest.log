@@ -4150,3 +4150,35 @@ geckolib3: Requires version 3.0.30 but mod is not found on client.
 [06:35:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: alexthe609 was turned into KFC by a dragon
 [06:35:21] [Server thread/INFO] [tombstone]: The last known grave of alexthe609 is at location [name:Last Grave, x:-2806, y:87, z:-2248] in the dimension 0
 [06:35:21] [Server thread/INFO] [tombstone]: alexthe609 has successfully been saved
+[06:38:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lalo070 has made the advancement [Stone Age]
+[06:39:32] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[06:39:32] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[06:40:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: alexthe609 was incinerated by a dragon
+[06:40:07] [Server thread/INFO] [tombstone]: The last known grave of alexthe609 is at location [name:Last Grave, x:-2805, y:86, z:-2248] in the dimension 0
+[06:40:07] [Server thread/INFO] [tombstone]: alexthe609 has successfully been saved
+[06:40:07] [Server thread/INFO] [tombstone]: alexthe609 has successfully been saved
+[06:40:07] [Server thread/INFO] [tombstone]: alexthe609 has successfully been saved
+[06:40:07] [Server thread/INFO] [tombstone]: alexthe609 has successfully been saved
+[06:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lalo070 has made the advancement [Sweet dreams]
+[06:43:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: alexthe609 experienced kinetic energy
+[06:43:27] [Server thread/INFO] [tombstone]: alexthe609 has successfully been saved
+[06:45:39] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:101]: Warning: Tried to create a EntityFallingTree with no branch blocks. This shouldn't be possible.
+[06:45:39] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: java.lang.Exception
+[06:45:39] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.setData(EntityFallingTree.java:102)
+[06:45:39] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.dropTree(EntityFallingTree.java:483)
+[06:45:39] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.blocks.BlockBranch.futureBreak(BlockBranch.java:432)
+[06:45:39] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.FutureBreak.process(FutureBreak.java:47)
+[06:45:39] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.CommonEventHandler.onWorldTick(CommonEventHandler.java:21)
+[06:45:39] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_999_CommonEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+[06:45:39] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+[06:45:39] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+[06:45:39] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:287)
+[06:45:39] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:752)
+[06:45:39] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+[06:45:39] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+[06:45:39] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+[06:45:39] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
+[06:45:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: alexthe609 experienced kinetic energy
+[06:45:48] [Server thread/INFO] [tombstone]: The last known grave of alexthe609 is at location [name:Last Grave, x:-2805, y:72, z:-2381] in the dimension 0
+[06:45:48] [Server thread/INFO] [tombstone]: alexthe609 has successfully been saved
+[06:46:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lalo070 has made the advancement [Getting an Upgrade]
