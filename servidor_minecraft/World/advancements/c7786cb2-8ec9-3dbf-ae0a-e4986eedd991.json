@@ -430,7 +430,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "beef": "2024-12-24 06:24:32 +0000"
+      "beef": "2024-12-24 06:24:32 +0000",
+      "cooked_salmon": "2024-12-24 06:52:09 +0000"
     },
     "done": false
   },
