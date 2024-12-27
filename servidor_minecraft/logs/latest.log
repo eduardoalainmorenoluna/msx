@@ -3679,3 +3679,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [21:25:19] [Server thread/INFO] [RLTweakerASM]: Patch exists for ichttt.mods.firstaid.common.util.ArmorUtils
 [21:25:19] [Server thread/INFO] [RLTweakerASM]: Writing class ichttt.mods.firstaid.common.util.ArmorUtils with flags MAXS | FRAMES
 [21:25:19] [Server thread/INFO] [firstaid]: Quality Tools mod present. Enabling compat...
+[21:35:40] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[21:35:40] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[21:35:40] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[21:35:40] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[21:35:40] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[21:36:20] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[21:36:20] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[21:36:20] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[21:36:20] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[21:36:21] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[21:36:34] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:pixelmon.trainer
+[21:36:34] [Server thread/ERROR] [reccomplex]: Error loading entity with ID 'pixelmon.Trainer'

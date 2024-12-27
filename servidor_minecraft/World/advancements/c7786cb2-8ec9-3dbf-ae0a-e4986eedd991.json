@@ -405,6 +405,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/tools/tears_shulker": {
+    "criteria": {
+      "has_material": "2024-12-27 21:35:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-27 04:29:31 +0000"
@@ -760,6 +766,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2024-12-27 21:31:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2024-12-27 04:39:53 +0000"
@@ -863,6 +875,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-27 04:29:31 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/tears_flame": {
+    "criteria": {
+      "has_material": "2024-12-27 21:35:02 +0000"
     },
     "done": true
   },
@@ -1010,6 +1028,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/material/remorseful_gem": {
+    "criteria": {
+      "has_material": "2024-12-27 21:35:02 +0000"
+    },
+    "done": true
+  },
   "wolfarmor:recipes/combat/gold_wolf_armor": {
     "criteria": {
       "has_the_ingredients": "2024-12-27 04:03:23 +0000"
@@ -1112,6 +1136,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-27 21:37:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-27 04:04:22 +0000"
@@ -1163,6 +1193,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2024-12-27 05:38:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2024-12-27 21:31:30 +0000"
     },
     "done": true
   },
@@ -1268,6 +1304,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-27 21:37:17 +0000"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:stone_battleaxe": {
     "criteria": {
       "has_stone": "2024-12-27 04:15:44 +0000"
@@ -1331,6 +1373,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2024-12-27 05:46:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2024-12-27 21:31:30 +0000"
     },
     "done": true
   },
@@ -1576,6 +1624,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2024-12-27 04:15:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-27 21:37:17 +0000"
     },
     "done": true
   },
