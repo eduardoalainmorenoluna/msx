@@ -496,6 +496,12 @@
     },
     "done": true
   },
+  "craftablechainmail:craft_iron_nugget": {
+    "criteria": {
+      "iron_nugget": "2024-12-27 20:50:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_at_least_9_gold_ingot": "2024-12-27 04:03:23 +0000"
