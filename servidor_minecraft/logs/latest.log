@@ -3756,3 +3756,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [22:07:07] [Thread-81/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for c7786cb2-8ec9-3dbf-ae0a-e4986eedd991.
 [22:07:20] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
 [22:08:37] [Server thread/INFO] [antiqueatlas]: Sent markers data #0 to player lalo070
+[22:16:39] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type Netherrack spawned at [ 4456 | -5464 ], underground: false
+[22:19:59] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX 306 and chunkZ -306...
+[22:19:59] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_cave at {"x": 4899, "y": 0, "z": -4901}...
+[22:20:00] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_cave at {"x": 4899, "y": 0, "z": -4901}.
+[22:21:33] [Server thread/INFO] [antiqueatlas]: Created new marker #2"gui.antiqueatlas.marker.tomb lalo070"@(5046, -5023)
+[22:21:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lalo070 was shot by Skeleton
+[22:21:33] [Server thread/INFO] [tombstone]: The last known grave of lalo070 is at location [name:Last Grave, x:5046, y:54, z:-5022] in the dimension 0
+[22:21:33] [Server thread/INFO] [tombstone]: lalo070 has successfully been saved
+[22:21:35] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT

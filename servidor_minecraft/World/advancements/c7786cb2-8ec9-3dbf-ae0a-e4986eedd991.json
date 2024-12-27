@@ -359,6 +359,7 @@
       "cooked_mutton": "2024-12-27 06:42:23 +0000",
       "porkchop": "2024-12-27 04:19:00 +0000",
       "potato": "2024-12-27 06:40:19 +0000",
+      "mutton": "2024-12-27 22:19:33 +0000",
       "bread": "2024-12-27 04:23:35 +0000",
       "golden_apple": "2024-12-27 22:10:08 +0000"
     },
@@ -626,6 +627,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2024-12-27 04:15:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-27 22:13:42 +0000"
     },
     "done": true
   },
@@ -1617,6 +1624,7 @@
       "frozen_river": "2024-12-27 04:01:25 +0000",
       "forest": "2024-12-27 04:05:24 +0000",
       "deep_ocean": "2024-12-27 03:58:24 +0000",
+      "forest_hills": "2024-12-27 22:20:35 +0000",
       "jungle_hills": "2024-12-27 03:47:18 +0000",
       "plains": "2024-12-27 21:24:37 +0000",
       "redwood_taiga": "2024-12-27 03:51:00 +0000",
