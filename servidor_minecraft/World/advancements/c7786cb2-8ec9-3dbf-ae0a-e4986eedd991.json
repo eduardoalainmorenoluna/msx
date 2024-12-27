@@ -889,6 +889,7 @@
       "cave_spider": "2024-12-27 04:46:50 +0000",
       "zombie": "2024-12-27 04:07:56 +0000",
       "spider": "2024-12-27 21:03:17 +0000",
+      "creeper": "2024-12-27 22:52:24 +0000",
       "enderman": "2024-12-27 21:04:56 +0000"
     },
     "done": false
@@ -896,6 +897,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-12-27 06:28:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-27 22:53:50 +0000"
     },
     "done": true
   },
@@ -956,6 +963,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-12-27 04:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-27 22:53:50 +0000"
     },
     "done": true
   },
@@ -1112,6 +1125,12 @@
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2024-12-27 04:04:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2024-12-27 22:55:11 +0000"
     },
     "done": true
   },
@@ -1442,6 +1461,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-12-27 04:20:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wooden_slab": {
+    "criteria": {
+      "has_planks": "2024-12-27 22:53:50 +0000"
     },
     "done": true
   },
@@ -1901,6 +1926,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-12-27 04:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-27 22:53:50 +0000"
     },
     "done": true
   },
