@@ -359,7 +359,8 @@
       "cooked_mutton": "2024-12-27 06:42:23 +0000",
       "porkchop": "2024-12-27 04:19:00 +0000",
       "potato": "2024-12-27 06:40:19 +0000",
-      "bread": "2024-12-27 04:23:35 +0000"
+      "bread": "2024-12-27 04:23:35 +0000",
+      "golden_apple": "2024-12-27 22:10:08 +0000"
     },
     "done": false
   },
@@ -504,6 +505,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2024-12-27 04:20:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-27 22:09:24 +0000"
     },
     "done": true
   },
@@ -923,6 +930,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-12-27 04:04:26 +0000"
+    },
+    "done": true
+  },
+  "wolfarmor:recipes/combat/diamond_wolf_armor": {
+    "criteria": {
+      "has_the_item": "2024-12-27 22:06:00 +0000"
     },
     "done": true
   },

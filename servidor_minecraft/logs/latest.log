@@ -3744,3 +3744,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [21:58:52] [Server thread/INFO] [Meson ASM]: Located method, patching...
 [21:58:52] [Server thread/INFO] [Meson ASM]: Located target ALOAD 1
 [21:58:52] [Server thread/INFO] [Meson ASM]: Patch result: true
+[22:06:59] [Server thread/INFO] [antiqueatlas]: Created new marker #1"gui.antiqueatlas.marker.tomb lalo070"@(4721, -5375)
+[22:06:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lalo070 experienced kinetic energy
+[22:06:59] [Server thread/INFO] [tombstone]: The last known grave of lalo070 is at location [name:Last Grave, x:4722, y:61, z:-5376] in the dimension 0
+[22:06:59] [Server thread/INFO] [Meson ASM]: Transforming ItemHandlerHelper
+[22:06:59] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [insertItem, insertItem, ] Descriptor (Lnet/minecraftforge/items/IItemHandler;Lnet/minecraft/item/ItemStack;Z)Lnet/minecraft/item/ItemStack; / (Lnet/minecraftforge/items/IItemHandler;Laip;Z)Laip;)
+[22:06:59] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[22:06:59] [Server thread/INFO] [Meson ASM]: Located target ALOAD 0
+[22:06:59] [Server thread/INFO] [Meson ASM]: Patch result: true
+[22:06:59] [Server thread/INFO] [tombstone]: lalo070 has successfully been saved
+[22:07:07] [Thread-81/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for c7786cb2-8ec9-3dbf-ae0a-e4986eedd991.
+[22:07:20] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[22:08:37] [Server thread/INFO] [antiqueatlas]: Sent markers data #0 to player lalo070
