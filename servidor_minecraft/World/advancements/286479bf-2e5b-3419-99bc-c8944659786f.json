@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "spartanweaponry:root": {
+    "criteria": {
+      "handle_in_inventory": "2024-12-27 04:54:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2024-12-27 04:21:43 +0000"
@@ -177,6 +183,12 @@
   "tombstone:tutorial/chain_death": {
     "criteria": {
       "coded_trigger": "2024-12-27 04:35:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:saber": {
+    "criteria": {
+      "craft": "2024-12-27 04:55:08 +0000"
     },
     "done": true
   },

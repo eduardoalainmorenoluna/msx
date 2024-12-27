@@ -4000,3 +4000,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [04:44:13] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2564ms behind, skipping 51 tick(s)
 [04:44:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: brandontilin moved too quickly! 10.20665200708845,1.2712241795760946,0.4023182388928035
 [04:44:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: lalo070 moved too quickly! 6.804582775812378,-0.16610931183763,7.5283794145016145
+[04:46:23] [Server thread/INFO] [Meson ASM]: Transforming ISpecialArmor
+[04:46:23] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [applyArmor, applyArmor, ] Descriptor (Lnet/minecraft/entity/EntityLivingBase;Lnet/minecraft/util/NonNullList;Lnet/minecraft/util/DamageSource;D)F / (Lvp;Lfi;Lur;D)F)
+[04:46:23] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[04:46:23] [Server thread/INFO] [Meson ASM]: Located target ALOAD 1
+[04:46:23] [Server thread/INFO] [Meson ASM]: Patch result: true
+[04:49:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lalo070 has made the advancement [Ashes 'n Bones]
+[04:51:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lalo070 was slain by Zombie
+[04:51:51] [Server thread/INFO] [tombstone]: The last known grave of lalo070 is at location [name:Last Grave, x:5087, y:63, z:-5145] in the dimension 0
+[04:51:52] [Server thread/INFO] [tombstone]: lalo070 has successfully been saved
+[04:55:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: brandontilin has made the advancement [Swashbuckler]
