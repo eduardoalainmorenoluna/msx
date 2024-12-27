@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-12-27 06:50:43 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/chain_death": {
     "criteria": {
       "coded_trigger": "2024-12-27 04:35:37 +0000"
@@ -900,7 +906,8 @@
     "criteria": {
       "skeleton": "2024-12-27 04:38:42 +0000",
       "cave_spider": "2024-12-27 05:03:45 +0000",
-      "zombie": "2024-12-27 04:32:42 +0000"
+      "zombie": "2024-12-27 04:32:42 +0000",
+      "spider": "2024-12-27 06:44:52 +0000"
     },
     "done": false
   },

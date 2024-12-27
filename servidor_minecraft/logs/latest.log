@@ -4363,3 +4363,34 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [06:28:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lalo070 has made the advancement [Into Fire]
 [06:29:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: brandontilin has made the advancement [Cover Me With Diamonds]
 [06:35:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: brandontilin has made the advancement [An adventure awaits you]
+[06:43:00] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX 306 and chunkZ -357...
+[06:43:00] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_grassland_builtin_custom_loot at {"x": 4899, "y": 0, "z": -5717}...
+[06:43:02] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_grassland_builtin_custom_loot at {"x": 4899, "y": 0, "z": -5717}.
+[06:43:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lalo070 experienced kinetic energy
+[06:43:42] [Server thread/INFO] [tombstone]: The last known grave of lalo070 is at location [name:Last Grave, x:5011, y:70, z:-5532] in the dimension 0
+[06:43:42] [Server thread/INFO] [tombstone]: lalo070 has successfully been saved
+[06:43:44] [Thread-380/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for c7786cb2-8ec9-3dbf-ae0a-e4986eedd991.
+[06:45:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: brandontilin was slain by Ashen Ventoraptor  Lvl 2
+[06:45:19] [Server thread/INFO] [tombstone]: The last known grave of brandontilin is at location [name:Last Grave, x:5017, y:69, z:-5510] in the dimension 0
+[06:45:19] [Server thread/INFO] [tombstone]: brandontilin has successfully been saved
+[06:45:19] [Server thread/INFO] [tombstone]: brandontilin has successfully been saved
+[06:45:19] [Server thread/INFO] [tombstone]: brandontilin has successfully been saved
+[06:45:23] [Thread-384/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 286479bf-2e5b-3419-99bc-c8944659786f.
+[06:45:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lalo070 was slain by Ashen Ventoraptor  Lvl 2
+[06:45:32] [Server thread/INFO] [tombstone]: The last known grave of lalo070 is at location [name:Last Grave, x:4987, y:65, z:-5547] in the dimension 0
+[06:45:32] [Server thread/INFO] [tombstone]: lalo070 has successfully been saved
+[06:46:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: brandontilin moved too quickly! 3.5554513720844625,0.9755758139389172,-9.532713061714276
+[06:48:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: brandontilin moved too quickly! 7.455184585238385,-0.7953996920024906,6.983767056031866
+[06:49:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: brandontilin was pummeled by Azure Wisp  Lvl 2
+[06:49:53] [Server thread/INFO] [tombstone]: The last known grave of brandontilin is at location [name:Last Grave, x:5139, y:69, z:-5409] in the dimension 0
+[06:49:53] [Server thread/INFO] [tombstone]: brandontilin has successfully been saved
+[06:49:53] [Server thread/INFO] [tombstone]: brandontilin has successfully been saved
+[06:50:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: brandontilin was slain by Zombie
+[06:50:27] [Server thread/INFO] [tombstone]: The last known grave of brandontilin is at location [name:Last Grave, x:5101, y:63, z:-5174] in the dimension 0
+[06:50:27] [Server thread/INFO] [tombstone]: brandontilin has successfully been saved
+[06:50:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lalo070 was pummeled by Wisp  Lvl 2
+[06:50:38] [Server thread/INFO] [tombstone]: The last known grave of lalo070 is at location [name:Last Grave, x:5166, y:68, z:-5418] in the dimension 0
+[06:50:38] [Server thread/INFO] [tombstone]: lalo070 has successfully been saved
+[06:53:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lalo070 was slain by Lux Krake
+[06:53:11] [Server thread/INFO] [tombstone]: The last known grave of lalo070 is at location [name:Last Grave, x:5170, y:67, z:-5416] in the dimension 0
+[06:53:11] [Server thread/INFO] [tombstone]: lalo070 has successfully been saved
