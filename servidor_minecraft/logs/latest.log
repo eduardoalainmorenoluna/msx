@@ -3983,3 +3983,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [04:35:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: brandontilin was killed trying to hurt Zombie
 [04:35:37] [Server thread/INFO] [tombstone]: The last known grave of brandontilin is at location [name:Last Grave, x:5077, y:63, z:-5168] in the dimension 0
 [04:35:37] [Server thread/INFO] [tombstone]: brandontilin has successfully been saved
+[04:36:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: brandontilin was killed by Zombie using magic
+[04:36:48] [Server thread/INFO] [tombstone]: The last known grave of brandontilin is at location [name:Last Grave, x:5077, y:63, z:-5155] in the dimension 0
+[04:36:48] [Server thread/INFO] [tombstone]: brandontilin has successfully been saved
+[04:37:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lalo070 was killed trying to hurt Zombie
+[04:37:07] [Server thread/INFO] [tombstone]: The last known grave of lalo070 is at location [name:Last Grave, x:5085, y:63, z:-5172] in the dimension 0
+[04:37:07] [Server thread/INFO] [tombstone]: lalo070 has successfully been saved
+[04:37:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: brandontilin was slain by Ashen Kobold
+[04:37:37] [Server thread/INFO] [tombstone]: The last known grave of brandontilin is at location [name:Last Grave, x:5085, y:63, z:-5170] in the dimension 0
+[04:37:37] [Server thread/INFO] [tombstone]: brandontilin has successfully been saved
+[04:37:38] [Server thread/INFO] [Scaling Health]: Blight Zombie was killed by lalo070
+[04:40:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lalo070 has made the advancement [Attack!]
+[04:41:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: brandontilin moved too quickly! 5.070253339146802,1.0,-8.690417112437899
+[04:41:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: brandontilin has made the advancement [Attack!]
+[04:43:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lalo070 has made the advancement [Tip of the Spear]
+[04:44:13] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2564ms behind, skipping 51 tick(s)
+[04:44:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: brandontilin moved too quickly! 10.20665200708845,1.2712241795760946,0.4023182388928035
+[04:44:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: lalo070 moved too quickly! 6.804582775812378,-0.16610931183763,7.5283794145016145
