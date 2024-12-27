@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-27 05:30:17 +0000"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:stone_hammer": {
     "criteria": {
       "has_stone": "2024-12-27 04:15:44 +0000"
@@ -254,6 +260,12 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-12-27 04:03:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/find_lost_tablet": {
+    "criteria": {
+      "has_lost_tablet": "2024-12-27 05:29:01 +0000"
     },
     "done": true
   },
@@ -441,6 +453,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2024-12-27 04:15:44 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/find_treasure": {
+    "criteria": {
+      "coded_trigger": "2024-12-27 05:30:30 +0000"
     },
     "done": true
   },
@@ -1215,6 +1233,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2024-12-27 03:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-27 05:27:36 +0000"
     },
     "done": true
   },

@@ -4088,3 +4088,35 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [05:19:53] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player brandontilin
 [05:19:53] [Server thread/INFO] [XAT]: Syncing Config to brandontilin
 [05:20:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: brandontilin has reached the goal [Bone Crusher]
+[05:26:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: brandontilin was slain by Zombie
+[05:26:57] [Server thread/INFO] [tombstone]: The last known grave of brandontilin is at location [name:Last Grave, x:5092, y:76, z:-5145] in the dimension 0
+[05:26:57] [Server thread/INFO] [tombstone]: brandontilin has successfully been saved
+[05:26:59] [Thread-228/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 286479bf-2e5b-3419-99bc-c8944659786f.
+[05:28:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: brandontilin has made the advancement [Stone Age]
+[05:29:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lalo070 has made the advancement [An adventure awaits you]
+[05:29:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: brandontilin was shot by Skeleton
+[05:29:49] [Server thread/INFO] [tombstone]: The last known grave of brandontilin is at location [name:Last Grave, x:5095, y:76, z:-5143] in the dimension 0
+[05:29:49] [Server thread/INFO] [tombstone]: brandontilin has successfully been saved
+[05:30:30] [Server thread/INFO] [FML]: Loading dimension -1 (World) (net.minecraft.server.dedicated.DedicatedServer@7375694a)
+[05:30:30] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (World)
+[05:30:30] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (World) to HARD
+[05:30:30] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[05:30:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lalo070 has reached the goal [The treasure is at hand]
+[05:30:30] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (World) to config
+[05:30:30] [Server thread/INFO] [FML]: Unloading dimension -1
+[05:31:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: brandontilin was slain by Zombie
+[05:31:09] [Server thread/INFO] [tombstone]: The last known grave of brandontilin is at location [name:Last Grave, x:5100, y:83, z:-5146] in the dimension 0
+[05:31:09] [Server thread/INFO] [tombstone]: brandontilin has successfully been saved
+[05:31:09] [Server thread/INFO] [tombstone]: brandontilin has successfully been saved
+[05:31:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: brandontilin was shot by Skeleton
+[05:31:36] [Server thread/INFO] [tombstone]: brandontilin has successfully been saved
+[05:33:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lalo070 was shot by Skeleton
+[05:33:56] [Server thread/INFO] [tombstone]: The last known grave of lalo070 is at location [name:Last Grave, x:5092, y:83, z:-5141] in the dimension 0
+[05:33:56] [Server thread/INFO] [tombstone]: lalo070 has successfully been saved
+[05:33:58] [Thread-244/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for c7786cb2-8ec9-3dbf-ae0a-e4986eedd991.
+[05:35:25] [Server thread/INFO] [tombstone]: lalo070 has successfully been saved
+[05:35:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lalo070 was slain by Cave Spider
+[05:35:26] [Server thread/INFO] [tombstone]: The last known grave of lalo070 is at location [name:Last Grave, x:5101, y:90, z:-5146] in the dimension 0
+[05:35:26] [Server thread/INFO] [tombstone]: lalo070 has successfully been saved
+[05:35:26] [Server thread/INFO] [tombstone]: lalo070 has successfully been saved
+[05:35:26] [Server thread/INFO] [tombstone]: lalo070 has successfully been saved
