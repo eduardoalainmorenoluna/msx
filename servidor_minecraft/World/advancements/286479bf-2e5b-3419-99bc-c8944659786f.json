@@ -61,6 +61,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "swampland": "2024-12-27 04:01:28 +0000",
       "beaches": "2024-12-27 03:37:05 +0000",
       "plains": "2024-12-27 03:51:12 +0000",
       "ocean": "2024-12-27 03:37:35 +0000",
