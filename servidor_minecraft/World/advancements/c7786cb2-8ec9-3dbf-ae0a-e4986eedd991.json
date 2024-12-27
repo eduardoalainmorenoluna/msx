@@ -718,6 +718,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
+    "criteria": {
+      "has_black_dye": "2024-12-27 21:16:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "entered_water": "2024-12-27 03:58:22 +0000"
@@ -1532,6 +1538,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2024-12-27 21:16:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "ice_flats": "2024-12-27 04:01:27 +0000",
@@ -1539,6 +1551,7 @@
       "forest": "2024-12-27 04:05:24 +0000",
       "deep_ocean": "2024-12-27 03:58:24 +0000",
       "jungle_hills": "2024-12-27 03:47:18 +0000",
+      "plains": "2024-12-27 21:24:37 +0000",
       "redwood_taiga": "2024-12-27 03:51:00 +0000",
       "redwood_taiga_hills": "2024-12-27 03:51:01 +0000",
       "taiga_cold": "2024-12-27 04:01:21 +0000",
