@@ -17,9 +17,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-12-27 04:16:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2024-12-27 04:04:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2024-12-27 04:15:44 +0000"
     },
     "done": true
   },
@@ -38,6 +50,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_lapis": "2024-12-27 04:03:23 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:wood_nunchaku": {
+    "criteria": {
+      "has_stick": "2024-12-27 04:16:47 +0000"
     },
     "done": true
   },
@@ -89,6 +107,12 @@
     },
     "done": true
   },
+  "mujmajnkraftsbettersurvival:stone_spear": {
+    "criteria": {
+      "has_stone": "2024-12-27 04:15:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2024-12-27 04:04:22 +0000"
@@ -128,6 +152,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2024-12-27 04:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-27 04:24:54 +0000"
     },
     "done": true
   },
@@ -185,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-12-27 04:16:47 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/christmas": {
     "criteria": {
       "coded_trigger": "2024-12-27 03:43:59 +0000"
@@ -233,9 +269,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-12-27 04:16:47 +0000"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:iron_spear": {
     "criteria": {
       "has_iron": "2024-12-27 04:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-12-27 04:17:35 +0000"
     },
     "done": true
   },
@@ -269,6 +317,12 @@
     },
     "done": true
   },
+  "mujmajnkraftsbettersurvival:stone_nunchaku": {
+    "criteria": {
+      "has_stone": "2024-12-27 04:15:44 +0000"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:gold_spear": {
     "criteria": {
       "has_gold": "2024-12-27 04:03:23 +0000"
@@ -284,6 +338,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-27 04:04:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:saber": {
+    "criteria": {
+      "craft": "2024-12-27 04:21:13 +0000"
     },
     "done": true
   },
@@ -323,15 +383,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-12-27 04:16:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-12-27 04:15:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-12-27 04:04:26 +0000"
     },
     "done": true
   },
+  "familiarfauna:recipes/tools/bug_net": {
+    "criteria": {
+      "has_string": "2024-12-27 04:20:35 +0000"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:gold_hammer": {
     "criteria": {
       "has_gold": "2024-12-27 04:03:23 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:stone_battleaxe": {
+    "criteria": {
+      "has_stone": "2024-12-27 04:15:44 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:stone_hammer": {
+    "criteria": {
+      "has_stone": "2024-12-27 04:15:44 +0000"
     },
     "done": true
   },
@@ -344,6 +434,12 @@
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2024-12-27 04:04:22 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:wood_hammer": {
+    "criteria": {
+      "has_stick": "2024-12-27 04:16:47 +0000"
     },
     "done": true
   },
@@ -383,9 +479,22 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "porkchop": "2024-12-27 04:19:00 +0000",
+      "bread": "2024-12-27 04:23:35 +0000"
+    },
+    "done": false
+  },
   "tombstone:recipes/from_grave_key": {
     "criteria": {
       "has_ingredient": "2024-12-27 04:01:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-12-27 04:16:47 +0000"
     },
     "done": true
   },
@@ -395,9 +504,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2024-12-27 04:15:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2024-12-27 04:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-27 04:20:35 +0000"
     },
     "done": true
   },
@@ -437,6 +558,12 @@
     },
     "done": true
   },
+  "mujmajnkraftsbettersurvival:wood_spear": {
+    "criteria": {
+      "has_stick": "2024-12-27 04:16:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-27 04:07:08 +0000"
@@ -458,6 +585,12 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2024-12-27 04:04:22 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:wood_battleaxe": {
+    "criteria": {
+      "has_stick": "2024-12-27 04:16:47 +0000"
     },
     "done": true
   },
@@ -485,6 +618,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-27 04:24:54 +0000"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:iron_nunchaku": {
     "criteria": {
       "has_iron": "2024-12-27 04:03:23 +0000"
@@ -503,6 +642,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-27 04:20:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/string_to_wool": {
+    "criteria": {
+      "has_string": "2024-12-27 04:20:35 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/root": {
     "criteria": {
       "auto": "2024-12-27 03:43:59 +0000"
@@ -512,6 +663,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-12-27 04:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-27 04:24:54 +0000"
     },
     "done": true
   },
@@ -563,6 +720,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-27 04:15:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2024-12-27 04:03:23 +0000"
@@ -572,6 +735,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2024-12-27 04:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-12-27 04:15:44 +0000"
     },
     "done": true
   },
@@ -627,6 +796,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-12-27 04:16:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2024-12-27 04:03:23 +0000"
@@ -651,9 +826,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-12-27 04:15:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2024-12-27 04:04:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-12-27 04:15:44 +0000"
     },
     "done": true
   },
@@ -672,6 +859,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2024-12-27 04:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-27 04:15:44 +0000"
     },
     "done": true
   },
@@ -711,6 +904,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-27 04:24:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2024-12-27 03:58:22 +0000"
@@ -735,9 +934,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-27 04:24:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2024-12-27 04:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-27 04:15:44 +0000"
     },
     "done": true
   },
@@ -795,6 +1006,12 @@
     },
     "done": true
   },
+  "mujmajnkraftsbettersurvival:crossbow": {
+    "criteria": {
+      "has_string": "2024-12-27 04:20:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-12-27 04:03:23 +0000"
@@ -822,6 +1039,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-12-27 04:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-12-27 04:15:44 +0000"
     },
     "done": true
   },
@@ -855,6 +1078,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-27 04:17:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2024-12-27 04:04:22 +0000"
@@ -870,6 +1099,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-27 04:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-27 04:15:44 +0000"
     },
     "done": true
   },
