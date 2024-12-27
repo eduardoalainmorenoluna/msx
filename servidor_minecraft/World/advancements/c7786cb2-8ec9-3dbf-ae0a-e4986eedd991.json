@@ -498,6 +498,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-12-27 05:56:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-27 04:04:26 +0000"
@@ -914,6 +920,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_at_least_9_coal": "2024-12-27 06:04:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2024-12-27 05:38:03 +0000"
@@ -1127,6 +1139,12 @@
   "mujmajnkraftsbettersurvival:gold_battleaxe": {
     "criteria": {
       "has_gold": "2024-12-27 04:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_the_recipe": "2024-12-27 06:04:41 +0000"
     },
     "done": true
   },

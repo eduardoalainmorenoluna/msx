@@ -4226,3 +4226,28 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [05:56:00] [Server thread/INFO] [tombstone]: The last known grave of lalo070 is at location [name:Last Grave, x:5098, y:103, z:-5150] in the dimension 0
 [05:56:00] [Server thread/INFO] [tombstone]: lalo070 has successfully been saved
 [05:56:00] [Server thread/INFO] [tombstone]: lalo070 has successfully been saved
+[05:57:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: brandontilin was shot by Skeleton
+[05:57:33] [Server thread/INFO] [tombstone]: The last known grave of brandontilin is at location [name:Last Grave, x:5099, y:104, z:-5147] in the dimension 0
+[05:57:33] [Server thread/INFO] [tombstone]: brandontilin has successfully been saved
+[05:57:35] [Thread-293/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 286479bf-2e5b-3419-99bc-c8944659786f.
+[05:58:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lalo070 was shot by Skeleton
+[05:58:02] [Server thread/INFO] [tombstone]: The last known grave of lalo070 is at location [name:Last Grave, x:5095, y:97, z:-5145] in the dimension 0
+[05:58:02] [Server thread/INFO] [tombstone]: lalo070 has successfully been saved
+[05:58:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: brandontilin was doomed to fall by Skeleton
+[05:58:22] [Server thread/INFO] [tombstone]: The last known grave of brandontilin is at location [name:Last Grave, x:5104, y:64, z:-5140] in the dimension 0
+[05:58:22] [Server thread/INFO] [tombstone]: brandontilin has successfully been saved
+[05:58:22] [Server thread/INFO] [tombstone]: brandontilin has successfully been saved
+[05:58:22] [Server thread/INFO] [tombstone]: brandontilin has successfully been saved
+[06:01:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: brandontilin was doomed to fall by Skeleton
+[06:01:53] [Server thread/INFO] [tombstone]: The last known grave of brandontilin is at location [name:Last Grave, x:5114, y:76, z:-5141] in the dimension 0
+[06:01:53] [Server thread/INFO] [tombstone]: brandontilin has successfully been saved
+[06:01:53] [Server thread/INFO] [tombstone]: brandontilin has successfully been saved
+[06:01:53] [Server thread/INFO] [tombstone]: brandontilin has successfully been saved
+[06:01:53] [Server thread/INFO] [tombstone]: brandontilin has successfully been saved
+[06:04:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: brandontilin was shot by Skeleton
+[06:04:40] [Server thread/INFO] [tombstone]: The last known grave of brandontilin is at location [name:Last Grave, x:5097, y:97, z:-5147] in the dimension 0
+[06:04:40] [Server thread/INFO] [tombstone]: brandontilin has successfully been saved
+[06:06:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: brandontilin was shot by Skeleton
+[06:06:11] [Server thread/INFO] [tombstone]: The last known grave of brandontilin is at location [name:Last Grave, x:5098, y:96, z:-5150] in the dimension 0
+[06:06:11] [Server thread/INFO] [tombstone]: brandontilin has successfully been saved
+[06:06:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lalo070 has made the advancement [Suit Up]
