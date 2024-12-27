@@ -1181,11 +1181,26 @@
     },
     "81:10": {
       "questID:3": 81,
-      "completed:9": {},
+      "completed:9": {
+        "0:10": {
+          "claimed:1": 0,
+          "uuid:8": "c7786cb2-8ec9-3dbf-ae0a-e4986eedd991",
+          "timestamp:4": 1735280622463
+        }
+      },
       "tasks:9": {
         "0:10": {
-          "completeUsers:9": {},
-          "userProgress:9": {},
+          "completeUsers:9": {
+            "0:8": "c7786cb2-8ec9-3dbf-ae0a-e4986eedd991"
+          },
+          "userProgress:9": {
+            "0:10": {
+              "data:9": {
+                "0:3": 1
+              },
+              "uuid:8": "c7786cb2-8ec9-3dbf-ae0a-e4986eedd991"
+            }
+          },
           "index:3": 1,
           "taskID:8": "bq_standard:retrieval"
         }

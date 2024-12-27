@@ -1368,6 +1368,12 @@
     },
     "done": true
   },
+  "wolfarmor:recipes/combat/leather_wolf_armor": {
+    "criteria": {
+      "has_the_ingredients": "2024-12-27 06:17:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2024-12-27 04:03:23 +0000"
