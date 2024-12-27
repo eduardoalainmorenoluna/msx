@@ -914,6 +914,12 @@
     },
     "done": true
   },
+  "astikorcarts:recipes/mobcart": {
+    "criteria": {
+      "has_the_recipe": "2024-12-27 21:47:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-12-27 04:04:26 +0000"
