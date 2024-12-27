@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "zombie": "2024-12-27 04:32:42 +0000"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:wood_nunchaku": {
     "criteria": {
       "has_stick": "2024-12-27 04:18:39 +0000"
@@ -64,6 +70,12 @@
       "has_stick": "2024-12-27 04:18:39 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "zombie": "2024-12-27 04:32:42 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
@@ -110,6 +122,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "forest": "2024-12-27 04:28:54 +0000",
       "swampland": "2024-12-27 04:01:28 +0000",
       "beaches": "2024-12-27 03:37:05 +0000",
       "plains": "2024-12-27 03:51:12 +0000",
@@ -135,6 +148,12 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2024-12-27 04:21:43 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-27 04:34:46 +0000"
     },
     "done": true
   },
@@ -255,6 +274,12 @@
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2024-12-27 04:21:43 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-12-27 04:35:37 +0000"
     },
     "done": true
   },
