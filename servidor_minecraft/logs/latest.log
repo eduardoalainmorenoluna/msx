@@ -3666,3 +3666,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [07:47:29] [Thread-26/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for c7786cb2-8ec9-3dbf-ae0a-e4986eedd991.
 [07:47:29] [Server thread/INFO] [RLTweakerASM]: Patch exists for net.minecraftforge.items.VanillaInventoryCodeHooks
 [07:47:29] [Server thread/INFO] [RLTweakerASM]: Writing class net.minecraftforge.items.VanillaInventoryCodeHooks with flags MAXS
+[08:18:53] [Server thread/INFO] [RLTweakerASM]: Patch exists for ichttt.mods.firstaid.common.util.ArmorUtils
+[08:18:53] [Server thread/INFO] [RLTweakerASM]: Writing class ichttt.mods.firstaid.common.util.ArmorUtils with flags MAXS | FRAMES
+[08:18:53] [Server thread/INFO] [firstaid]: Quality Tools mod present. Enabling compat...
+[08:18:53] [Server thread/INFO] [Meson ASM]: Transforming ISpecialArmor
+[08:18:53] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [applyArmor, applyArmor, ] Descriptor (Lnet/minecraft/entity/EntityLivingBase;Lnet/minecraft/util/NonNullList;Lnet/minecraft/util/DamageSource;D)F / (Lvp;Lfi;Lur;D)F)
+[08:18:53] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[08:18:53] [Server thread/INFO] [Meson ASM]: Located target ALOAD 1
+[08:18:53] [Server thread/INFO] [Meson ASM]: Patch result: true
+[08:19:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lalo070 has reached the goal [Strong or Careful]
+[08:19:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lalo070 was slain by Ashen Necrovore  Lvl 2
+[08:19:33] [Server thread/INFO] [tombstone]: The last known grave of lalo070 is at location [name:Last Grave, x:5155, y:68, z:-5437] in the dimension 0
+[08:19:33] [Server thread/INFO] [Meson ASM]: Transforming ItemHandlerHelper
+[08:19:33] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [insertItem, insertItem, ] Descriptor (Lnet/minecraftforge/items/IItemHandler;Lnet/minecraft/item/ItemStack;Z)Lnet/minecraft/item/ItemStack; / (Lnet/minecraftforge/items/IItemHandler;Laip;Z)Laip;)
+[08:19:33] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[08:19:33] [Server thread/INFO] [Meson ASM]: Located target ALOAD 0
+[08:19:33] [Server thread/INFO] [Meson ASM]: Patch result: true
+[08:19:33] [Server thread/INFO] [tombstone]: lalo070 has successfully been saved
+[08:19:34] [Thread-71/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for c7786cb2-8ec9-3dbf-ae0a-e4986eedd991.
