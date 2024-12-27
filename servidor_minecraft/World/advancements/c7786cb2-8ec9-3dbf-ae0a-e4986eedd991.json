@@ -358,6 +358,7 @@
       "cooked_porkchop": "2024-12-27 08:08:00 +0000",
       "cooked_mutton": "2024-12-27 06:42:23 +0000",
       "porkchop": "2024-12-27 04:19:00 +0000",
+      "apple": "2024-12-27 22:33:26 +0000",
       "potato": "2024-12-27 06:40:19 +0000",
       "mutton": "2024-12-27 22:19:33 +0000",
       "bread": "2024-12-27 04:23:35 +0000",
@@ -398,6 +399,12 @@
   "minecraft:recipes/misc/iron_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2024-12-27 06:09:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2024-12-27 22:39:05 +0000"
     },
     "done": true
   },
@@ -546,6 +553,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "bred_wolf": "2024-12-27 22:40:41 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2024-12-27 04:03:23 +0000"
@@ -693,6 +706,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2024-12-27 04:16:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-27 22:50:44 +0000"
     },
     "done": true
   },
@@ -1306,6 +1325,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2024-12-27 22:39:05 +0000"
+    },
+    "done": true
+  },
   "familiarfauna:recipes/tools/bug_net": {
     "criteria": {
       "has_string": "2024-12-27 04:20:35 +0000"
@@ -1405,6 +1430,12 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2024-12-27 21:31:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2024-12-27 22:39:05 +0000"
     },
     "done": true
   },
@@ -1624,6 +1655,7 @@
       "frozen_river": "2024-12-27 04:01:25 +0000",
       "forest": "2024-12-27 04:05:24 +0000",
       "deep_ocean": "2024-12-27 03:58:24 +0000",
+      "extreme_hills_with_trees": "2024-12-27 22:38:51 +0000",
       "forest_hills": "2024-12-27 22:20:35 +0000",
       "jungle_hills": "2024-12-27 03:47:18 +0000",
       "plains": "2024-12-27 21:24:37 +0000",
@@ -1631,6 +1663,8 @@
       "redwood_taiga_hills": "2024-12-27 03:51:01 +0000",
       "taiga_cold": "2024-12-27 04:01:21 +0000",
       "ocean": "2024-12-27 04:08:45 +0000",
+      "extreme_hills": "2024-12-27 22:36:31 +0000",
+      "roofed_forest": "2024-12-27 22:50:26 +0000",
       "river": "2024-12-27 04:01:18 +0000",
       "jungle": "2024-12-27 03:47:13 +0000"
     },
@@ -1813,6 +1847,12 @@
   "astikorcarts:recipes/wheel": {
     "criteria": {
       "has_planks": "2024-12-27 04:04:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred_wolf": "2024-12-27 22:40:41 +0000"
     },
     "done": true
   },
