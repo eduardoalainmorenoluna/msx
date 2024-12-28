@@ -3871,3 +3871,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [02:40:59] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ 5768 | -4728 ], underground: true
 [02:41:01] [Server thread/WARN] [com.ferreusveritas.dynamictrees.trees.TreeFamily]: Block Block{dynamictrees:darkoakbranchx} not valid branch for dynamictrees:darkoak.
 [02:41:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lalo070: Teleported brandontilin to lalo070]
+[02:50:09] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX 357 and chunkZ -306...
+[02:50:09] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_cave at {"x": 5492, "y": 0, "z": -4965}...
+[02:50:11] [Server thread/WARN] [com.ferreusveritas.dynamictrees.trees.TreeFamily]: Block Block{dynamictrees:darkoakbranchx} not valid branch for dynamictrees:darkoak.
+[02:50:12] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_cave at {"x": 5492, "y": 0, "z": -4965}.
+[02:50:12] [Server thread/INFO] [RLTweakerASM]: Patch exists for net.minecraftforge.items.VanillaInventoryCodeHooks
+[02:50:12] [Server thread/INFO] [RLTweakerASM]: Writing class net.minecraftforge.items.VanillaInventoryCodeHooks with flags MAXS
+[02:50:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: lalo070 moved too quickly! 1.982988772679164,0.0,-10.06174579360868
+[02:50:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: brandontilin moved too quickly! 6.93267389835637,1.16610931183763,-7.4180610982857615
+[02:50:12] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3276ms behind, skipping 65 tick(s)
+[02:54:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <brandontilin> w

@@ -912,6 +912,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "vindicator": "2024-12-28 02:52:49 +0000",
       "skeleton": "2024-12-27 04:34:01 +0000",
       "cave_spider": "2024-12-27 04:46:50 +0000",
       "zombie": "2024-12-27 04:07:56 +0000",
