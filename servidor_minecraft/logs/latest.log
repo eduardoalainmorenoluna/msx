@@ -3955,3 +3955,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [03:46:21] [Server thread/INFO] [antiqueatlas]: Sent Atlas #0 data to player brandontilin
 [03:46:21] [Server thread/INFO] [antiqueatlas]: Sent markers data #0 to player brandontilin
 [03:46:21] [Thread-181/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 286479bf-2e5b-3419-99bc-c8944659786f.
+[03:48:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <brandontilin> ey
+[03:48:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <brandontilin> asme tp loco
+[03:50:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lalo070: Teleported brandontilin to lalo070]
+[03:51:13] [Server thread/INFO] [antiqueatlas]: Created new marker #17"gui.antiqueatlas.marker.tomb brandontilin"@(6163, -5318)
+[03:51:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: brandontilin was slain by Geist  Lvl 2
+[03:51:13] [Server thread/INFO] [tombstone]: The last known grave of brandontilin is at location [name:Last Grave, x:6163, y:67, z:-5319] in the dimension 0
+[03:51:13] [Server thread/INFO] [tombstone]: brandontilin has successfully been saved
+[03:51:30] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[03:52:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lalo070: Teleported brandontilin to lalo070]
+[03:55:20] [Server thread/INFO] [antiqueatlas]: Created new marker #18"gui.antiqueatlas.marker.tomb brandontilin"@(6160, -5319)
+[03:55:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: brandontilin was shot by Skeleton
+[03:55:20] [Server thread/INFO] [tombstone]: The last known grave of brandontilin is at location [name:Last Grave, x:6160, y:66, z:-5320] in the dimension 0
+[03:55:20] [Server thread/INFO] [tombstone]: brandontilin has successfully been saved
+[03:55:29] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2315ms behind, skipping 46 tick(s)
+[03:55:32] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX -102 and chunkZ -153...
+[03:56:00] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[03:56:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lalo070: Teleported brandontilin to lalo070]
