@@ -3858,3 +3858,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [02:35:22] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@2507a170
 [02:35:22] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@2507a170
 [02:35:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lalo070: Teleported brandontilin to lalo070]
+[02:37:32] [Server thread/INFO] [antiqueatlas]: Created new marker #14"gui.antiqueatlas.marker.tomb brandontilin"@(5623, -4392)
+[02:37:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: brandontilin was slain by Lux Krake
+[02:37:32] [Server thread/INFO] [tombstone]: The last known grave of brandontilin is at location [name:Last Grave, x:5623, y:71, z:-4393] in the dimension 0
+[02:37:32] [Server thread/INFO] [tombstone]: brandontilin has successfully been saved
+[02:37:37] [Thread-86/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 286479bf-2e5b-3419-99bc-c8944659786f.
+[02:37:58] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[02:37:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lalo070: Teleported brandontilin to lalo070]
+[02:40:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: brandontilin moved too quickly! -7.20172521285167,1.249187141739128,-7.108174584012886
+[02:40:14] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[02:40:14] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[02:40:59] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ 5768 | -4728 ], underground: true
+[02:41:01] [Server thread/WARN] [com.ferreusveritas.dynamictrees.trees.TreeFamily]: Block Block{dynamictrees:darkoakbranchx} not valid branch for dynamictrees:darkoak.
+[02:41:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lalo070: Teleported brandontilin to lalo070]
