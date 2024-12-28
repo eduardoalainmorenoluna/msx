@@ -440,6 +440,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-28 02:59:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2024-12-27 06:27:27 +0000"
@@ -1102,6 +1108,7 @@
     "criteria": {
       "forest": "2024-12-27 04:28:54 +0000",
       "swampland": "2024-12-27 04:01:28 +0000",
+      "birch_forest": "2024-12-28 03:02:31 +0000",
       "beaches": "2024-12-27 03:37:05 +0000",
       "plains": "2024-12-27 03:51:12 +0000",
       "savanna": "2024-12-27 04:07:02 +0000",
