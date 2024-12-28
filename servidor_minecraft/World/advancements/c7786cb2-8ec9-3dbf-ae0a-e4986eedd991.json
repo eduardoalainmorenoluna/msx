@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-28 02:32:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2024-12-27 04:04:22 +0000"
@@ -1328,6 +1334,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2024-12-28 02:32:50 +0000"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:iron_hammer": {
     "criteria": {
       "has_iron": "2024-12-27 04:03:23 +0000"
@@ -1705,6 +1717,7 @@
       "jungle_hills": "2024-12-27 03:47:18 +0000",
       "plains": "2024-12-27 21:24:37 +0000",
       "redwood_taiga": "2024-12-27 03:51:00 +0000",
+      "taiga": "2024-12-28 02:26:47 +0000",
       "redwood_taiga_hills": "2024-12-27 03:51:01 +0000",
       "taiga_cold": "2024-12-27 04:01:21 +0000",
       "ocean": "2024-12-27 04:08:45 +0000",
@@ -1724,6 +1737,12 @@
   "familiarfauna:recipes/tools/bug_habitat": {
     "criteria": {
       "has_glass": "2024-12-27 04:04:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:explode_creeper": {
+    "criteria": {
+      "killed_skeleton": "2024-12-28 02:32:27 +0000"
     },
     "done": true
   },
@@ -2000,6 +2019,12 @@
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2024-12-27 04:27:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stonebrick": {
+    "criteria": {
+      "has_stonebrick": "2024-12-28 02:32:50 +0000"
     },
     "done": true
   },

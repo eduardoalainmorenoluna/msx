@@ -3848,3 +3848,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [02:25:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
 [02:25:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
 [02:25:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
+[02:29:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: brandontilin has completed the challenge [Karma]
+[02:30:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <brandontilin> s
+[02:31:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <brandontilin> s
+[02:32:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lalo070 has completed the challenge [Karma]
+[02:32:34] [Server thread/INFO] [tombstone]: brandontilin has successfully been saved
+[02:35:22] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@2507a170
+[02:35:22] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@2507a170
+[02:35:22] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@2507a170
+[02:35:22] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@2507a170
+[02:35:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lalo070: Teleported brandontilin to lalo070]
