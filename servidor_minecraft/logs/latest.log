@@ -3972,3 +3972,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [03:55:32] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX -102 and chunkZ -153...
 [03:56:00] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
 [03:56:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lalo070: Teleported brandontilin to lalo070]
+[04:02:25] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: lalo070 moved wrongly!
+[04:02:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: lalo070 moved wrongly!
+[04:02:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: lalo070 moved wrongly!
+[04:02:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: lalo070 moved wrongly!
+[04:02:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: lalo070 moved wrongly!
