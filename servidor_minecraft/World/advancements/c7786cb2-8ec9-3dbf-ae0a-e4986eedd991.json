@@ -453,6 +453,12 @@
     },
     "done": true
   },
+  "defiledlands:main/discover_all_biomes": {
+    "criteria": {
+      "plains_defiled": "2024-12-28 03:15:10 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-12-27 04:04:26 +0000"
@@ -464,6 +470,12 @@
       "has_planks": "2024-12-27 04:04:09 +0000"
     },
     "done": true
+  },
+  "defiledlands:main/kill_all_mobs": {
+    "criteria": {
+      "scuttler": "2024-12-28 03:15:31 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
@@ -1783,6 +1795,12 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_at_least_9_iron_nugget": "2024-12-27 22:27:32 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:main/root": {
+    "criteria": {
+      "plains_defiled": "2024-12-28 03:15:10 +0000"
     },
     "done": true
   },

@@ -308,6 +308,12 @@
     },
     "done": true
   },
+  "defiledlands:main/discover_all_biomes": {
+    "criteria": {
+      "plains_defiled": "2024-12-28 03:15:11 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-12-27 06:35:24 +0000"
@@ -1165,6 +1171,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-27 05:28:03 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:main/root": {
+    "criteria": {
+      "plains_defiled": "2024-12-28 03:15:11 +0000"
     },
     "done": true
   },
