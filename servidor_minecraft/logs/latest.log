@@ -3708,3 +3708,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [01:28:25] [Server thread/INFO] [antiqueatlas]: Sent Atlas #0 data to player brandontilin
 [01:28:25] [Server thread/INFO] [antiqueatlas]: Sent markers data #0 to player brandontilin
 [01:28:25] [Thread-36/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 286479bf-2e5b-3419-99bc-c8944659786f.
+[01:31:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <brandontilin> as
+[01:31:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <brandontilin> fa
+[01:32:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <brandontilin> pendejin
+[01:37:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: brandontilin has made the advancement [A Seedy Place]
