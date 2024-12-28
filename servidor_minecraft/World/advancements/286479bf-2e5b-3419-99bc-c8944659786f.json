@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-28 03:34:31 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/first_knowledge": {
     "criteria": {
       "coded_trigger": "2024-12-27 04:08:47 +0000"
@@ -65,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-12-28 03:34:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2024-12-27 06:11:01 +0000"
@@ -92,6 +104,12 @@
   "minecraft:recipes/building_blocks/mossy_stonebrick": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-28 02:23:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-28 03:34:31 +0000"
     },
     "done": true
   },
@@ -197,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-28 03:34:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2024-12-27 06:11:01 +0000"
@@ -233,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
+    "criteria": {
+      "has_red_dye": "2024-12-28 03:34:05 +0000"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:stone_hammer": {
     "criteria": {
       "has_stone": "2024-12-27 05:28:03 +0000"
@@ -242,6 +272,12 @@
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2024-12-27 05:43:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-28 03:34:31 +0000"
     },
     "done": true
   },
@@ -332,6 +368,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-12-28 03:34:31 +0000"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:wood_battleaxe": {
     "criteria": {
       "has_stick": "2024-12-27 04:18:39 +0000"
@@ -416,6 +458,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-28 03:34:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_boots": "2024-12-27 05:46:41 +0000"
@@ -491,6 +539,12 @@
   "minecraft:recipes/decorations/green_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-12-27 06:35:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-28 03:34:31 +0000"
     },
     "done": true
   },
@@ -654,6 +708,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-12-28 03:34:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-12-27 06:35:24 +0000"
@@ -732,6 +792,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-28 03:34:31 +0000"
+    },
+    "done": true
+  },
   "wolfarmor:recipes/combat/gold_wolf_armor": {
     "criteria": {
       "has_the_ingredients": "2024-12-28 00:54:47 +0000"
@@ -750,9 +816,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-28 03:34:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2024-12-28 00:54:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-28 03:34:31 +0000"
     },
     "done": true
   },
@@ -762,9 +840,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
+    "criteria": {
+      "has_red_dye": "2024-12-28 03:34:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2024-12-27 06:35:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-28 03:34:31 +0000"
     },
     "done": true
   },
@@ -885,6 +975,12 @@
   "mujmajnkraftsbettersurvival:iron_hammer": {
     "criteria": {
       "has_iron": "2024-12-27 06:11:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-28 03:34:31 +0000"
     },
     "done": true
   },
@@ -1041,6 +1137,12 @@
   "mujmajnkraftsbettersurvival:diamond_hammer": {
     "criteria": {
       "has_diamond": "2024-12-28 00:52:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-28 03:34:31 +0000"
     },
     "done": true
   },
@@ -1222,6 +1324,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2024-12-28 03:34:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2024-12-27 03:43:45 +0000"
@@ -1282,6 +1390,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-28 03:34:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-12-27 06:35:24 +0000"
@@ -1339,6 +1453,24 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2024-12-28 00:52:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-28 03:34:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-28 03:34:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2024-12-28 03:34:05 +0000"
     },
     "done": true
   },

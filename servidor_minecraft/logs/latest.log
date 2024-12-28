@@ -3931,3 +3931,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [03:22:39] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
 [03:22:39] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
 [03:22:39] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
+[03:32:29] [Server thread/INFO] [antiqueatlas]: Created new marker #15"Casa"@(6433, -5190)
+[03:32:45] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
