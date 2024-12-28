@@ -356,6 +356,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2024-12-28 01:53:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-12-27 06:35:24 +0000"
@@ -755,6 +761,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-28 02:03:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-12-28 02:03:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-27 06:35:24 +0000"
@@ -869,6 +887,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-28 02:03:00 +0000"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:stone_battleaxe": {
     "criteria": {
       "has_stone": "2024-12-27 05:28:03 +0000"
@@ -953,6 +977,12 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-28 02:04:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2024-12-27 04:58:01 +0000"
@@ -1025,6 +1055,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-12-28 02:01:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2024-12-27 04:58:01 +0000"
@@ -1051,6 +1087,7 @@
       "plains": "2024-12-27 03:51:12 +0000",
       "savanna": "2024-12-27 04:07:02 +0000",
       "ocean": "2024-12-27 03:37:35 +0000",
+      "extreme_hills": "2024-12-28 01:49:10 +0000",
       "roofed_forest": "2024-12-27 03:51:22 +0000",
       "river": "2024-12-27 03:45:15 +0000"
     },
@@ -1071,6 +1108,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2024-12-27 05:28:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-28 02:03:00 +0000"
     },
     "done": true
   },

@@ -287,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-12-28 01:48:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-12-27 05:30:17 +0000"
@@ -369,7 +375,8 @@
       "potato": "2024-12-27 06:40:19 +0000",
       "mutton": "2024-12-27 22:19:33 +0000",
       "bread": "2024-12-27 04:23:35 +0000",
-      "golden_apple": "2024-12-27 22:10:08 +0000"
+      "golden_apple": "2024-12-27 22:10:08 +0000",
+      "beetroot": "2024-12-28 01:48:57 +0000"
     },
     "done": false
   },
@@ -647,6 +654,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2024-12-27 04:15:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-28 01:48:54 +0000"
     },
     "done": true
   },
