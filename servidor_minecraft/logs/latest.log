@@ -3716,3 +3716,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [00:15:42] [Server thread/INFO] [RLTweakerASM]: Writing class pw.prok.realbench.WorkbenchInventory with flags MAXS | FRAMES
 [00:15:42] [Server thread/INFO] [RLTweaker]: HookRealBench reflected successfully!
 [00:15:49] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player lalo070)
+[00:27:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lalo070 has made the advancement [What a Deal!]
