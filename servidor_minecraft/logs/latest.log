@@ -3708,3 +3708,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [00:09:43] [Server thread/INFO] [tombstone]: lalo070 has successfully been saved
 [00:10:01] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
 [00:11:06] [Server thread/INFO] [tombstone]: lalo070 has successfully been saved
+[00:13:26] [Server thread/INFO] [Scaling Health]: Blight Morock  Lvl 3 was killed by lalo070
+[00:15:42] [Server thread/INFO] [RB-Transformer]: Injecting into pw.prok.realbench.WorkbenchInventory (pw.prok.realbench.WorkbenchInventory)
+[00:15:42] [Server thread/INFO] [RB-Transformer]:  - <init>
+[00:15:42] [Server thread/INFO] [RB-Transformer]:  - Done
+[00:15:42] [Server thread/INFO] [RLTweakerASM]: Patch exists for pw.prok.realbench.WorkbenchInventory
+[00:15:42] [Server thread/INFO] [RLTweakerASM]: Writing class pw.prok.realbench.WorkbenchInventory with flags MAXS | FRAMES
+[00:15:42] [Server thread/INFO] [RLTweaker]: HookRealBench reflected successfully!
+[00:15:49] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player lalo070)
